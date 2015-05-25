@@ -1,0 +1,13 @@
+<agenda>
+  <entrada>
+    <nombre>Pedro</nombre>
+    <apellido>Lopez</apellido>
+    <telefono>123456</telefono>
+    <telefono>654321</telefono>
+  </entrada>
+  <entrada>
+    <nombre>Antonio</nombre>
+    <apellido>Gomez</nombre>
+    <telefono>123457</telefono>
+  </entrada>
+</agenda>
