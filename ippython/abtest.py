@@ -4,7 +4,7 @@
 
 ## definicion <except>
 print '*-------------------------------------------------------------*'
-print '| A veces queremos realizar una operacion que podria provovar |'
+print '| A veces queremos realizar una operacion que podria provocar |'
 print '| un errror en tiempo de ejecucion, pero no queremos que se   |'
 print '| pare el programa, esta situacion la podemos manejar con las |'
 print '| sentencias <try> y <except>.                                |'
