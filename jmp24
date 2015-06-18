@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created 18-06-2015 01:38 am
+@author: jmery24
+"""
+#ejercicio pag 17
+
 a = float(raw_input("Dame un número:"))
 b = float(raw_input("Dame otro número:"))
 c = float(raw_input("Y ahora uno más:"))
